@@ -50,6 +50,3 @@
   4. It is not necessary to update every field of the variant.
 
 # Test Driven Development (Chai,Mocha,ChaiHttp)
-  1. I am a fresher and I learnt about TDD using the above technologies and I am in the learning phase. I learnt how we add assertions and validate with the code written.
-  2. Testing is quite a new topic to me but I will make sure I am a fast learner and do my best to cover these in coming days.
-  3. For now I was able to implement only to test an API route using chai and mocha.
